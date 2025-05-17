@@ -5,10 +5,11 @@
 }
 
 .parrent {
+    
     border: 2px solid black;
-    width: 510px;
+    width: 550px;
     background-color: lightcoral;
-    padding: 1px 10px 0px 10px;
+    padding: 20px 10px 20px 10px;
     overflow: hidden;
     margin: 0 auto;
 }
@@ -20,6 +21,7 @@
     width: 250px;
     padding: 10px;
     background-color: lightblue;
+    
 }
 
 .childre2 {
@@ -29,4 +31,6 @@
     width: 250px;
     padding: 10px;
     background-color: lightblue;
+    height: 186px;
+    overflow: scroll;
 }
