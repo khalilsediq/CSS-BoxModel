@@ -9,3 +9,6 @@
     margin: 10px;
     padding: 30px;
 }
+.img1 > img {
+    display: none;
+}
