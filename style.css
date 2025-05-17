@@ -1,0 +1,32 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.parrent {
+    border: 2px solid black;
+    width: 510px;
+    background-color: lightcoral;
+    padding: 1px 10px 0px 10px;
+    overflow: hidden;
+    margin: 0 auto;
+}
+
+.childre {
+    border: 2px solid black;
+    display: inline;
+    float: left;
+    width: 250px;
+    padding: 10px;
+    background-color: lightblue;
+}
+
+.childre2 {
+    border: 2px solid black;
+    display: inline;
+    float: right;
+    width: 250px;
+    padding: 10px;
+    background-color: lightblue;
+}
